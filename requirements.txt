@@ -1,1 +1,5 @@
 urllib2
+numpy
+matplotlib
+seaborn
+pandas
