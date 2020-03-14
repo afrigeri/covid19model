@@ -14,4 +14,3 @@ dependencies:
   - dask
   - pandas
   - seaborn
-  - urllib2
