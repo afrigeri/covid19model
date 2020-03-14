@@ -14,5 +14,4 @@ dependencies:
   - dask
   - pandas
   - seaborn
-  - io
   - requests
